@@ -1,24 +1,18 @@
-### Olá 👋
-##
-<div>
-Tenho 22 anos, moro em BH/MG, sou iniciante no universo da programação e me encontro no processo para me tornar um DEV em breve!!
-<br/><br/>
-- 🔭 Procurando um emprego.<br/>
-- 🌱 Cursando Analise e desenvolvimento de sistemas.<br/>
-- 🧠 estudando autonomamente JS, React e Python.
-<br/><br/>
-</div>
-<div id="central">
-  <img align="center" alt="Gabriel-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Gabriel-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Gabriel-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-</div>
+# 💫 Olá:
+Tenho 22 anos, moro em BH/MG, sou iniciante no universo da programação e me encontro no processo para me tornar um DEV em breve!!<br><br>- 🔭 Procurando um emprego.<br>- 🌱 Cursando Analise e desenvolvimento de sistemas.<br>- 🧠 estudando autonomamente JS, React e Python.
 
-##
 
-<div>
-   <a href="mailto:gabrielzimas@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-   
-   <a href="mailto:gabrielzimas@hotmail.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
+## 🌐 Redes Sociais:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/magrelopai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GabrielHungria) 
+
+# 💻 Linguagens:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 Status do GitHub:
+![](https://github-readme-stats.vercel.app/api?username=GabrielHungria&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielHungria&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHungria&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=GabrielHungria&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
