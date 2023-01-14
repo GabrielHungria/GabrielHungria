@@ -14,5 +14,3 @@ Tenho 22 anos, moro em BH/MG, sou iniciante no universo da programação e me en
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GabrielHungria&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
