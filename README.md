@@ -1,5 +1,5 @@
 # 💫 Olá:
-Tenho 22 anos, moro em BH/MG, sou iniciante no universo da programação e me encontro no processo para me tornar um DEV em breve!!<br><br>- 🔭 Procurando um emprego.<br>- 🌱 Cursando Analise e desenvolvimento de sistemas.<br>- 🧠 estudando autonomamente JS, React e Python.
+Tenho 22 anos, moro em BH/MG, sou iniciante no universo da programação e me encontro no processo para me tornar um DEV em breve!!<br><br>- 🔭 Procurando um emprego.<br>- 🌱 Cursando Analise e desenvolvimento de sistemas.<br>- 🧠 estudando autonomamente JS, React.
 
 
 ## 🌐 Redes Sociais:
